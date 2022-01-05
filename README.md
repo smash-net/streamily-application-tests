@@ -4,8 +4,8 @@ This task should not take you more than 2 hours. Feel free to work on the soluti
 you'd like, but please submit it as a single ".jsx" file as an attachment emailed to
 ian@streamily.com.
 
-This CustomerDirectory component currently renders a list of 6 customer addresses, each with an
-"Edit" button that does nothing.
+The CustomerDirectory component (scroll down to find) currently renders a list of 6 customer
+addresses, each with an "Edit" button that does nothing.
 
 1. Please add behavior to allow the "Edit" button to open a modal that will allow
 the user to edit each of the following customer parameters: first_name, last_name, address, address2,
